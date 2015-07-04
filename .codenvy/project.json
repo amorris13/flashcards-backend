@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"system:/python/web/python27_gae":{"ram":1000,"variables":{},"options":{}}},"default":"system:/python/web/python27_gae"},"type":"GAEPython","attributes":{"language":["python"]}}
